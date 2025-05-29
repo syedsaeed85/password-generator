@@ -40,6 +40,8 @@ else:
     # Yeh tabhi print hoga jab upar 'if not all_possibility:' wala error aaya ho
     # Is specific code mein yeh print nahi hoga kyunki small, capital, symbol hamesha hain.
     print("Password generate nahi ho paaya.")
+    print("Password generate nahi ho paaya.")
+    print("Password generate nahi ho paaya.")
 
 
 # print(f"your password is : {mera_password}")
